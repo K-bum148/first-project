@@ -1,0 +1,27 @@
+[tool.poetry]
+package-mode = false
+
+[project]
+name = "django-confeer-backend"
+version = "0.1.0"
+description = "confeer - jeckie's and mine first project"
+authors = [
+    {name = "rama-roma"},
+    {name = "K-bum148"}
+]
+requires-python = ">=3.14"
+dependencies = [
+    "django (==5.0.2)",
+    "psycopg[binary] (>=3.3.4,<4.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[[tool.poetry.source]]
+name = "aliyun"
+url = "https://mirrors.aliyun.com/pypi/simple/"
+priority = "primary"
+
