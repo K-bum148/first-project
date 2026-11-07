@@ -19,8 +19,8 @@ _yeah im sort of anime fan_
 [My Telegram (_if you're interested in my project_)](t.me/jipr_228)
 
 ## Roadmap
-- [] to learn git
-- [] to learn SQL
-- [] to learn Django
-- [] to learn Redis
-- [] to learn som other shit that will be useful for backend programmer
+- [ ] to learn git
+- [ ] to learn SQL
+- [ ] to learn Django
+- [ ] to learn Redis
+- [ ] to learn som other shit that will be useful for backend programmer
